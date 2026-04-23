@@ -44,13 +44,11 @@ Tailored UI/UX with regional greetings, accessibility-first design, and a focus 
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshot-home.png)
+<img width="1357" height="636" alt="image" src="https://github.com/user-attachments/assets/eb5dab85-eaf5-4fde-b82d-fe628828e4d4" />
+
 
 ### Voice Onboarding
-![Voice Onboarding](./screenshot-voice.png)
-
-### Poly-badges
-![Poly-badges](./screenshot-badges.png)
+<img width="1361" height="617" alt="image" src="https://github.com/user-attachments/assets/04bbdb39-4fd3-4b67-9f27-2dc26495c665" />
 
 ---
 
